@@ -2,8 +2,7 @@
 banner:
   enable: true
   title: Xylem Literary Magazine
-  content: Solving the problems of today to see a tomorrow worth living and a past
-    worth remembering.
+  content: 'Curating a collection of U of M''s best student writing '
   image: images/hero-image/hero-slider-01.jpg
   button:
     enable: true
