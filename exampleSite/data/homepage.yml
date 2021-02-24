@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Xylem Literary Magazine
   content: Welcome to Xylem, University of Michigan’s undergraduate literary magazine.
-  image: images/hero-image/hero-slider-01.jpg
+  image: "/images/temple-3.jpg"
   button:
     enable: true
     label: WHAT WE DO
