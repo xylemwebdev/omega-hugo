@@ -97,3 +97,44 @@ career:
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
 
 ---
+The Xylem Staff is responsible for selecting student submissions, editing student submissions (primarily copyediting), finalizing layout, designing and posting flyers, and organizing campus events. 
+
+Editor-in-Chief
+
+Clare Godfryd
+
+Advertising/PR
+
+Elly Salah
+
+Editing
+
+Maya Simonte
+
+Finance
+
+Simran Malik
+
+Layout and Design
+
+Maia Muzumdar
+
+Submissions
+
+Natasha Vatalaro
+
+Staff
+
+Tejal Mahajan 
+
+Ajay Pillay 
+
+Eleanor Scott
+
+Hussein Alkadhim
+
+Meera Kumar
+
+Zoe Raymond 
+
+INTERESTED IN GETTING INVOLVED? SEND AN EMAIL TO XYLEMLITERARYMAGAZINE@GMAIL.COM.
