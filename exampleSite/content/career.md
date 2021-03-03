@@ -1,10 +1,10 @@
 ---
 title: About Us
 layout: Staff
-description: "Editor-in-Chief\nClare Godfryd\n\nAdvertising/PR\nElly Salah\n\nEditing\nMaya
-  Simonte\n\nFinance\nSimran Malik\n\nLayout and Design\nMaia Muzumdar\n\nSubmissions\nNatasha
-  Vatalaro\n\nStaff\nTejal Mahajan \nAjay Pillay \nHussein\nEleanor Scott\nHussein
-  Alkadhim\nMeera Kumar\nZoe Raymond "
+description: "Editor-in-Chief\n\nClare Godfryd\n\nAdvertising/PR\n\nElly Salah\n\nEditing\n\nMaya
+  Simonte\n\nFinance\n\nSimran Malik\n\nLayout and Design\n\nMaia Muzumdar\n\nSubmissions\n\nNatasha
+  Vatalaro\n\nStaff\n\nTejal Mahajan \n\nAjay Pillay \n\nEleanor Scott\n\nHussein
+  Alkadhim\n\nMeera Kumar\n\nZoe Raymond "
 about:
   enable: true
   title: Who we're looking for
