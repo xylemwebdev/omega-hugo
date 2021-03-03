@@ -17,9 +17,9 @@ about:
 gallery:
   enable: true
   images:
-  - images/gallery/gallery-01.png
-  - images/gallery/gallery-02.png
-  - images/gallery/gallery-03.png
+  - images/gallery/randos-pic.jpg
+  - images/gallery/allison-pic.jpg
+  - images/gallery/aviva-pic.jpg
 funfacts:
   enable: false
   title: amenities for you to enjoy
