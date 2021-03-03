@@ -1,4 +1,18 @@
 ---
 label: Staff
 hide_body: true
-fields: []
+fields:
+- name: about_us
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: About Us
+- name: photous
+  type: file
+  config:
+    maxSize: 64
+  label: photous
