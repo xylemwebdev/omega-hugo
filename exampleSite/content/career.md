@@ -1,17 +1,17 @@
 ---
 title: About Us
 layout: Staff
-description: "Editor-in-Chief\n\nClare Godfryd\n\n\nAdvertising/PR\n\nElly Salah\n\n\nEditing\n\nMaya
-  Simonte\n\n\nFinance\n\nSimran Malik\n\n\nLayout and Design\n\nMaia Muzumdar\n\n\nSubmissions\n\nNatasha
-  Vatalaro\n\n\nStaff\n\nTejal Mahajan \n\nAjay Pillay \n\nEleanor Scott\n\nHussein
-  Alkadhim\n\nMeera Kumar\n\nZoe Raymond \n\n\nThe Xylem Staff is responsible for
-  selecting student submissions, editing student submissions (primarily copyediting),
-  finalizing layout, designing and posting flyers, and organizing campus events. \n\nINTERESTED
-  IN GETTING INVOLVED? SEND AN EMAIL TO XYLEMLITERARYMAGAZINE@GMAIL.COM."
+description: "The Xylem Staff is responsible for selecting student submissions, editing
+  student submissions (primarily copyediting), finalizing layout, designing and posting
+  flyers, and organizing campus events. \n\nINTERESTED IN GETTING INVOLVED? SEND AN
+  EMAIL TO XYLEMLITERARYMAGAZINE@GMAIL.COM."
 about:
-  enable: true
-  title: Who we're looking for
-  content: Bright, educated and hard working individuals who put professionalism first.
+  enable: false
+  title: People
+  content: 'Editor-in-Chief  Clare Godfryd   Advertising/PR  Elly Salah   Editing  Maya
+    Simonte   Finance  Simran Malik   Layout and Design  Maia Muzumdar   Submissions  Natasha
+    Vatalaro   Staff  Tejal Mahajan   Ajay Pillay   Eleanor Scott  Hussein Alkadhim  Meera
+    Kumar  Zoe Raymond '
   video_thumb: images/promo-video-thumbnail.jpg
   video_id: g3-VxLQO7do
 gallery:
