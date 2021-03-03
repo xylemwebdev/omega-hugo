@@ -9,7 +9,7 @@ description: "The Xylem Staff is responsible for selecting student submissions, 
   Mahajan \n\nAjay Pillay \n\nEleanor Scott\n\nHussein Alkadhim\n\nMeera Kumar\n\nZoe
   Raymond \n\nINTERESTED IN GETTING INVOLVED? SEND AN EMAIL TO XYLEMLITERARYMAGAZINE@GMAIL.COM."
 about:
-  enable: false
+  enable: true
   title: People
   content: 'Editor-in-Chief  Clare Godfryd   Advertising/PR  Elly Salah   Editing  Maya
     Simonte   Finance  Simran Malik   Layout and Design  Maia Muzumdar   Submissions  Natasha
@@ -24,7 +24,7 @@ gallery:
   - images/gallery/allison-pic.jpg
   - images/gallery/aviva-pic.jpg
 funfacts:
-  enable: false
+  enable: true
   title: amenities for you to enjoy
   funfacts_item:
   - name: Flexible hours
@@ -44,7 +44,7 @@ funfacts:
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
 career:
-  enable: false
+  enable: true
   title: Job Opening
   job_item:
   - name: Android Developer
