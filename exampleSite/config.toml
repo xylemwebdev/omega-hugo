@@ -5,25 +5,25 @@ title = "OMEGA"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "mission"
-name = "About"
+URL = "contact"
+name = "Contact"
 pre = "#"
-weight = 1
+weight = 4
+[[menu.main]]
+URL = "career"
+name = "About Us"
+pre = ""
+weight = 3
 [[menu.main]]
 URL = "products"
 name = "Products"
 pre = "#"
 weight = 2
 [[menu.main]]
-URL = "career"
-name = "Career"
-pre = ""
-weight = 3
-[[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "mission"
+name = "Xylem"
 pre = "#"
-weight = 4
+weight = 1
 [params]
 author = "Themefisher"
 contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
