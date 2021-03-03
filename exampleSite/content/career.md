@@ -21,7 +21,7 @@ gallery:
   - images/gallery/gallery-02.png
   - images/gallery/gallery-03.png
 funfacts:
-  enable: true
+  enable: false
   title: amenities for you to enjoy
   funfacts_item:
   - name: Flexible hours
@@ -41,7 +41,7 @@ funfacts:
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
 career:
-  enable: true
+  enable: false
   title: Job Opening
   job_item:
   - name: Android Developer
