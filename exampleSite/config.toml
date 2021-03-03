@@ -4,11 +4,16 @@ theme = "omega"
 title = "OMEGA"
 [markup.goldmark.renderer]
 unsafe = true
-[menu.main]
-URL = "mission"
-name = "Xylem"
+[[menu.main]]
+URL = "contact"
+name = "Contact"
 pre = "#"
-weight = 1
+weight = 4
+[[menu.main]]
+URL = "products"
+name = "Products"
+pre = "#"
+weight = 2
 [params]
 author = "Themefisher"
 contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
