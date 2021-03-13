@@ -1,6 +1,6 @@
 ---
 title: Career
-layout: career
+layout: Career
 description: Xylem Literary Magazine exclusively features the creative work of University
   of Michigan undergraduates, and all aspects of the journal’s publicity, production,
   and publication are student-run. All students are encouraged to submit writing and
