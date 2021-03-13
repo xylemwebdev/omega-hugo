@@ -46,7 +46,7 @@ product:
     artistic mind."
   product_item: []
 contact:
-  enable: false
+  enable: true
   section: CONTACT US
   title: Contact Us
   image: images/map-bg.jpg
