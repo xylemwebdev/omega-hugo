@@ -58,3 +58,9 @@ call_to_action:
     have for you.
   button_label: Apply Now
   button_link: career
+menu:
+  main:
+    URL: products
+    name: Products
+    pre: "#"
+    weight: 1
