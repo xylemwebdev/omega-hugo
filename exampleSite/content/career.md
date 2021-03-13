@@ -1,5 +1,5 @@
 ---
-title: Career
+title: About Us
 layout: career
 description: Do what you enjoy, invest for your future and reap the benefits of working
   with the worlds first advancement company that puts people first.
@@ -87,11 +87,5 @@ career:
     - Strong knowledge of iOS, Android & Web Platforms
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
-menu:
-  main:
-    URL: career
-    name: About Us
-    pre: ''
-    weight: 3
 
 ---
