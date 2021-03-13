@@ -46,7 +46,7 @@ product:
     artistic mind."
   product_item: []
 contact:
-  enable: false
+  enable: true
   section: CONTACT US
   title: Contact Us
   image: images/map-bg.jpg
@@ -54,8 +54,7 @@ contact:
     in the form!
 call_to_action:
   enable: false
-  title: Join the Omega family. <br>Click below to view the career opportunities we
-    have for you.
+  title: Join the Xylem family!
   button_label: Apply Now
   button_link: career
 menu:
