@@ -61,6 +61,6 @@ call_to_action:
 menu:
   main:
     URL: products
-    name: Products
+    name: Publications
     pre: "#"
-    weight: 1
+    weight: "1"
