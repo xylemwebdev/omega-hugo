@@ -5,7 +5,7 @@ title = "OMEGA"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "aboutus"
+URL = "/aboutus"
 name = "About Us"
 pre = "#"
 weight = 4
