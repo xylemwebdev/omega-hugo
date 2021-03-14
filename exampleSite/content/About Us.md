@@ -1,5 +1,5 @@
 +++
-about_us = "\n\nhi hi\n"
+about_us = "\n"
 photous = "/images/aviva-pic.jpg"
 
 +++
