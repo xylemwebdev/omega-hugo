@@ -91,10 +91,5 @@ career:
     - Strong knowledge of iOS, Android & Web Platforms
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
-menu:
-  main:
-    URL: aboutus
-    pre: "#"
-    weight: 2
 
 ---
