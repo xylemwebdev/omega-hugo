@@ -15,7 +15,7 @@ mission:
   content: |-
     Xylem Literary Magazine is an independent, student-run literary magazine at the University of Michigan that annually publishes original undergraduate student writing and art, including poetry, fiction, creative nonfiction, artwork and photography.
 
-    The journal exclusively features the creative work of University of Michigan undergraduates, and all aspects of the journal’s publicity, production, and publication are student-run. All students are encouraged to submit writing and art for consideration. Beyond submitting work, there are numerous other ways to become involved in the creation of Xylem − from advertising to layout design to selecting pieces for publication.
+    Xylem Literary Magazine exclusively features the creative work of University of Michigan undergraduates, and all aspects of the journal’s publicity, production, and publication are student-run. All students are encouraged to submit writing and art for consideration. Beyond submitting work, there are numerous other ways to become involved in the creation of Xylem − from advertising to layout design to selecting pieces for publication.
   video_thumb: "/images/a-la-playa-3.jpg"
   video_id: ''
 vision:
@@ -25,7 +25,7 @@ vision:
   - title: ''
     image: "/images/yum-1.JPG"
     content: Create something weird, artsy, poetic, wacky, beautiful, terrifying,
-      funny, whimsical … you get the idea.
+      funny, whimsical… you get the idea.
   - title: ''
     image: "/images/waiting-watercolor-1.jpg"
     content: Send it to us at xylemsubmit@gmail.com.
@@ -47,17 +47,20 @@ product:
     artistic mind."
   product_item: []
 contact:
-  enable: false
+  enable: true
   section: CONTACT US
-  title: reach us
+  title: Contact Us
   image: images/map-bg.jpg
-  content: The dawn of the digital age and the need for a significant leap forward
-    is here. We believe that every business has the opportunity to move into this
-    new age with the right mindset. Contact us today to begin understanding how Omega
-    can propel your business.
+  content: Feel free to reach out to us via any of our social media below or by filling
+    in the form!
 call_to_action:
   enable: false
-  title: Join the Omega family. <br>Click below to view the career opportunities we
-    have for you.
+  title: Join the Xylem family!
   button_label: Apply Now
   button_link: career
+menu:
+  main:
+    URL: products
+    name: Publications
+    pre: "#"
+    weight: "1"
