@@ -1,7 +1,7 @@
 baseURL = "https://xylemlitmag.netlify.app"
 googleAnalytics = ""
 theme = "omega"
-title = "OMEGA"
+title = "Xylem Literary Magazine"
 [markup.goldmark.renderer]
 unsafe = true
 [params]
