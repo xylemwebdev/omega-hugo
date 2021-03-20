@@ -6,7 +6,7 @@ title = "Xylem Literary Magazine"
 unsafe = true
 [params]
 author = "Themefisher"
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
+contact_info = "xylemlitmag@gmail.com"
 description = "This is meta description"
 logo = "/images/xylemlogo.png"
 logo_width = "120px"
